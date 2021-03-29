@@ -10,7 +10,6 @@ i : integer;
 hello : string;
 
 begin
-clrscr;
 hello := 'Hello, Dunia';
 i := 1234;
 writeln(hello);

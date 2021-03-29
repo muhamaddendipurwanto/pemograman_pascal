@@ -1,0 +1,10 @@
+{Nama                   : Muhamad Dendi Purwanto }
+
+program hello;
+uses crt;
+
+begin
+writeln('Hallo Dunia');
+readln;
+end.
+

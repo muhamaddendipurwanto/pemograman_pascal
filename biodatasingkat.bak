@@ -7,7 +7,6 @@ uses crt;
 
 
 begin
-clrscr;
 writeln('============== Biodata =============================');
 writeln('Nama    : Muhamad Dendi Purwanto');
 writeln('NPM     : 20.14.1.0001');

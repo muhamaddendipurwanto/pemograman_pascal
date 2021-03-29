@@ -6,22 +6,23 @@ program konversi_suhu_fahrenthiet_ke_celcius;
 uses crt;
 
 var
-    suhu : real;
-    hasil : real;
+    suhu : Real;
+    hasil : Real;
 
 begin
+CLRSCR;
 writeln('Program Konversi Suhu Fahrentheit - celcius');
 writeln('===========================================');
 writeln();
 write('Masukan Suhu Dalam Fahrenheit   :    '); readln(suhu); 
 
 writeln();
-{Proses konversi}
 
-hasil := suhu * 1,8 + 32;
+{Proses konversi}
+hasil := (suhu - 32 ) * 5/8;
 writeln();
 
-write('Suhu Dalam Celcius Adalah    :    ', hasil, '   C');
+writeln('Suhu Dalam Celcius Adalah    :    ', hasil:10:2,'   Celcius');
 
 
 readln;

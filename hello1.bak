@@ -6,7 +6,6 @@ program hello1;
 uses crt;
 
 begin
-clrscr;
 write('Hello World');
 readln;
 

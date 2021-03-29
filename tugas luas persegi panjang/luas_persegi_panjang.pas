@@ -12,7 +12,7 @@ luas : integer;
 
 
 begin
-
+CLRSCR;
 writeln('Program Luas Persegi Panjang');
 writeln('=============================');
 writeln();

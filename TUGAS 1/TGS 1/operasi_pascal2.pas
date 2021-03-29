@@ -10,7 +10,6 @@ var
 	j: integer;
 	
 begin
-clrscr;
 i := 1;
 j := 2;
 writeln('Membuat Program Tampilan Operasi dan Hasil Operasi');
