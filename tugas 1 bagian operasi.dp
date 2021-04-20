@@ -1,0 +1,12 @@
+[Project]
+FileName=E:\Kuliah\0-Praktikum_Pascal\tugas 1 bagian operasi.dp
+Name=tugas 1 bagian operasi
+MainUnit=E:\Kuliah\0-Praktikum_Pascal\operasi_pascal2.pas
+UnitCount=1
+ResFiles=E:\Kuliah\0-Praktikum_Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=E:\Kuliah\0-Praktikum_Pascal\operasi_pascal2.pas
+FileTime=1381645692
